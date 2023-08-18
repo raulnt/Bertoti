@@ -28,19 +28,19 @@ Acerto: O feedback ao usuário do status atual  é um ótimo indicador<br></br>
 Erro: A falta deu um feedback mais detalhado, pode deixar o usuário esperando sem necessidade
 
 <h3>2# Match between system and the real world</h3>
-Acerto:
-Erro:
+Acerto: SQL para o usuários
+Erro: Metáforas do Windows (Pasta, Arquivo...)
 
 <h3>3# User control and freedom</h3>
-Acerto:
+Acerto Pacote Office (ctrl + Z)
 Erro:
 
 <h3>4# Consistency and standards</h3>
-Acerto:
-Erro:
+Acerto: WhatsApp
+Erro: Siga
 
 <h3>5# Error prevention</h3>
-Acerto:
+Acerto: Formatação dos dados
 Erro:
 
 <h3>6# Recognition rather than recall</h3>
@@ -48,7 +48,7 @@ Acerto:
 Erro:
 
 <h3>7# Flexibility and efficiency of use</h3>
-Acerto:
+Acerto: Atalhos no teclado
 Erro:
 
 <h3>8# Aesthetic and minimalist design</h3>
