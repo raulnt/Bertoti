@@ -19,3 +19,46 @@ No segundo trecho do livro, é tratado a relação da programação integrada na
 2. Um segundo exemplo, ja mais direcionado a parte hardware, seria "Desempenho x Gastos de Energia", onde um prossesador que tenha seu desenpenho melhorado em questão de sua velocidade, tem por outro lado, um consumo maior de energia.
 
 3. O terceiro exemplo seria em relação a um programa capaz de armazenar/salvar seu login e senha, trazendo a "Facilidade do Acesso x Segurança", onde se em nossa rotina do dia a dia nos pede o acesso em um certo programa, a opção de salvarmos nossos dados de login, nos traz essa facilidade e o rápido acesso, porém, existe a questão de quebra de segurança, que pode acarretar na exposição de nossos dados pessoais. 
+
+# **18/08/23**
+<h2>Encontre 1 erro e 1 acerto de cada heurística, "10 Usability Heuristics for User Interface Design"</h2>
+
+<h3>1# Visibility of system status</h3>
+Acerto: O feedback ao usuário do status atual  é um ótimo indicador<br></br>
+Erro: A falta deu um feedback mais detalhado, pode deixar o usuário esperando sem necessidade
+
+<h3>2# Match between system and the real world</h3>
+Acerto:
+Erro:
+
+<h3>3# User control and freedom</h3>
+Acerto:
+Erro:
+
+<h3>4# Consistency and standards</h3>
+Acerto:
+Erro:
+
+<h3>5# Error prevention</h3>
+Acerto:
+Erro:
+
+<h3>6# Recognition rather than recall</h3>
+Acerto:
+Erro:
+
+<h3>7# Flexibility and efficiency of use</h3>
+Acerto:
+Erro:
+
+<h3>8# Aesthetic and minimalist design</h3>
+Acerto:
+Erro:
+
+<h3>9# Help users recognize, diagnose, and recover from errors</h3>
+Acerto:
+Erro:
+
+<h3>10# Help and documentation</h3>
+Acerto:
+Erro:
