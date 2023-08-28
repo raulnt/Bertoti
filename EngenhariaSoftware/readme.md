@@ -64,3 +64,10 @@ Acerto: <br></br>
 Erro:
 
 # **21/08/23**
+
+# **25/08/23**
+<h2>Diagrama UML</h2>
+(https://github.com/raulnt/Bertoti/assets/127263427/3d02e369-2393-4b1f-b4fe-ec2fd5a6ff35)
+
+# **28/08/23**
+UML em java no arquivo anexado ao Repositório (https://github.com/raulnt/Bertoti/tree/main/EngenhariaSoftware)
