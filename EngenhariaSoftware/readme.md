@@ -33,35 +33,35 @@ Erro: Metáforas do Windows (Pasta, Arquivo...)
 
 <h3>3# User control and freedom</h3>
 Acerto Pacote Office (ctrl + Z) <br></br>
-Erro:
+Erro: Campos que aceitam ctrl + V, porém, aceitam espaço vazio e acaba "comendo" um caracteres. 
 
 <h3>4# Consistency and standards</h3>
 Acerto: WhatsApp <br></br>
-Erro: Siga
+Erro: Código sem padronização, podendo leva a bugs
 
 <h3>5# Error prevention</h3>
 Acerto: Formatação dos dados <br></br>
-Erro:
+Erro: Restrição de senhas muito complexas, pode gerar o esquecimento da mesma nos usuários
 
 <h3>6# Recognition rather than recall</h3>
-Acerto: <br></br>
-Erro:
+Acerto: Alexa, onde você pode dar orientações normalmente <br></br>
+Erro: Configuração de impressora, com a necessidade de lembra do IP 198.16....
 
 <h3>7# Flexibility and efficiency of use</h3>
 Acerto: Atalhos no teclado <br></br>
-Erro:
+Erro: A falta de atalhos em certo programas como os de edições, seja de foto, vídeo... 
 
 <h3>8# Aesthetic and minimalist design</h3>
-Acerto: <br></br>
-Erro:
+Acerto: Amazon, é simples e com foto no objetivo principal, a venda! <br></br>
+Erro: A falta do design minimalista, um loja virtual com várias publicidades espalhadas em janelas 
 
 <h3>9# Help users recognize, diagnose, and recover from errors</h3>
-Acerto: <br></br>
-Erro:
+Acerto: Uma mensagem informando onde ocorreu o "erro" como nas liguagens de programação <br></br>
+Erro: A falta do Feedback, indicando o motivo do possível erro
 
 <h3>10# Help and documentation</h3>
-Acerto: <br></br>
-Erro:
+Acerto: Tutoriais interativos em aplicativos no primeiro acesso <br></br>
+Erro: Um programa complexo com várias ferramentos e com poucas informações de como usá-las.
 
 # **21/08/23**
 
