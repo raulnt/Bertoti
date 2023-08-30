@@ -64,6 +64,13 @@ Acerto: Tutoriais interativos em aplicativos no primeiro acesso <br></br>
 Erro: Um programa complexo com várias ferramentos e com poucas informações de como usá-las.
 
 # **21/08/23**
+<h2>Caso de Uso</h2>
+
+* Diagrama de Caso de Uso
+* UML Unified Modeling 
+
+![image](https://github.com/raulnt/Bertoti/assets/127263427/03d84ffe-bb16-4f1c-88e0-3777d3c3d762)
+
 
 # **25/08/23**
 <h2>Diagrama UML</h2>
