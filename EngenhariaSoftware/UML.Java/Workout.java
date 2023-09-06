@@ -1,10 +1,10 @@
 public class Workout {
     public static void main(String[] args) {
        
-        Academia academia = new Academia("Academia Fitness", "Rua Principal, 123");
+        Academia academia = new Academia("Academia Performance", "Rua Nagano, 123");
 
-        Aluno aluno1 = new Aluno("Alice", 25, "Plano Premium");
-        Aluno aluno2 = new Aluno("Bob", 30, "Plano Básico");
+        Aluno aluno1 = new Aluno("Raul", 24, "Plano Premium");
+        Aluno aluno2 = new Aluno("Dani", 25, "Plano Básico");
 
         academia.adicionarAluno(aluno1);
         academia.adicionarAluno(aluno2);

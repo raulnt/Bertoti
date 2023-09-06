@@ -8,6 +8,7 @@ private String nome;
     private List<Aluno> alunos;
     private List<Instrutor> instrutores;
 
+
     public Academia(String nome, String endereco) {
         this.nome = nome;
         this.endereco = endereco;
