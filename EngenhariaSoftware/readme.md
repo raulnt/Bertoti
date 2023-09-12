@@ -73,8 +73,9 @@ Erro: Um programa complexo com várias ferramentos e com poucas informações de
 
 
 # **25/08/23**
-<h2>Diagrama UML</h2>
-(https://github.com/raulnt/Bertoti/assets/127263427/3d02e369-2393-4b1f-b4fe-ec2fd5a6ff35)
+Primeiro Diagrama UML ![image](https://github.com/raulnt/Bertoti/assets/127263427/efa46bb9-b892-471a-a217-a4ed21826f46)
 
-# **28/08/23**
-UML em java no arquivo anexado ao Repositório (https://github.com/raulnt/Bertoti/tree/main/EngenhariaSoftware)
+
+
+# **11/09/23**
+Upadate do Diagrama de UML ![image](https://github.com/raulnt/Bertoti/assets/127263427/a25d0cc7-e460-4b83-86ea-39e578ed687a)
