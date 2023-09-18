@@ -79,3 +79,25 @@ Primeiro Diagrama UML ![image](https://github.com/raulnt/Bertoti/assets/12726342
 
 # **11/09/23**
 Upadate do Diagrama de UML ![image](https://github.com/raulnt/Bertoti/assets/127263427/a25d0cc7-e460-4b83-86ea-39e578ed687a)
+
+# **18/09/23**
+<summary> Teste JUnit </summary>
+<br>
+
+	@Test
+	void test() {
+		List<Aluno> listaAlunos = new LinkedList<Aluno>();
+		
+		listaAlunos.add(new Aluno("Raul", "24", "rjbn@", "86.5"));
+		listaAlunos.add(new Aluno("Dani", "25", "kdadani@", "56.2"));
+		
+		List<Professor> listaProfessores = new LinkedList<Professor>();
+		
+		listaProfessores.add(new Professor("Renato Cariani","noturno","1"));
+		listaProfessores.add(new Professor("Julio Balesgreen","diurno","2"));
+		
+		SistemaAcademia sa = new SistemaAcademia("CT",listaAlunos,listaProfessores);
+		
+		assertEquals(sa.buscarAlunos("Raul").size(), 1 );
+
+	}
