@@ -1,11 +1,11 @@
-# **11/08/23**
+# **11/08/23** 📅
 <h2>Text 1</h2>
 Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming.
 
 <h2>Comentário 1</h2>
 No primeiro trecho do livro, temos como tema "As diferenças críticas entre programação e engenharia de software". Sendo elas, tempo, escala e compensações (trade-off), partindo disso, os engenheiros direcionam sua "preocupação" com o tempo e necessidades relacionadas as mudanças. Ja na organização de engenharia de software em geral, a preocupação é voltada para escala e eficiência, tanto para o produzido quanto para a organização responsável pela produção. Podemos concluir, um engenheiro de software tem como sua responsabilidade a tomada de decisões complexas de alto risco, sem estimativas em relação a tempo e crescimento.
 
-# **14/08/23**
+# **14/08/23** 📅
 <h2>Text 2</h2>
 Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming.
 
@@ -20,7 +20,7 @@ No segundo trecho do livro, é tratado a relação da programação integrada na
 
 3. O terceiro exemplo seria em relação a um programa capaz de armazenar/salvar seu login e senha, trazendo a "Facilidade do Acesso x Segurança", onde se em nossa rotina do dia a dia nos pede o acesso em um certo programa, a opção de salvarmos nossos dados de login, nos traz essa facilidade e o rápido acesso, porém, existe a questão de quebra de segurança, que pode acarretar na exposição de nossos dados pessoais. 
 
-# **18/08/23**
+# **18/08/23** 📅
 <h2>Encontre 1 erro e 1 acerto de cada heurística, "10 Usability Heuristics for User Interface Design"</h2>
 
 <h3>1# Visibility of system status</h3>
@@ -63,7 +63,7 @@ Erro: A falta do Feedback, indicando o motivo do possível erro
 Acerto: Tutoriais interativos em aplicativos no primeiro acesso <br></br>
 Erro: Um programa complexo com várias ferramentos e com poucas informações de como usá-las.
 
-# **21/08/23**
+# **21/08/23** 📅
 <h2>Caso de Uso</h2>
 
 * Diagrama de Caso de Uso
@@ -72,15 +72,15 @@ Erro: Um programa complexo com várias ferramentos e com poucas informações de
 ![image](https://github.com/raulnt/Bertoti/assets/127263427/03d84ffe-bb16-4f1c-88e0-3777d3c3d762)
 
 
-# **25/08/23**
+# **25/08/23** 📅
 Primeiro Diagrama UML ![image](https://github.com/raulnt/Bertoti/assets/127263427/efa46bb9-b892-471a-a217-a4ed21826f46)
 
 
 
-# **11/09/23**
+# **11/09/23** 📅
 Upadate do Diagrama de UML ![image](https://github.com/raulnt/Bertoti/assets/127263427/a25d0cc7-e460-4b83-86ea-39e578ed687a)
 
-# **18/09/23**
+# **18/09/23** 📅
 <summary> Teste JUnit </summary>
 <br>
 
