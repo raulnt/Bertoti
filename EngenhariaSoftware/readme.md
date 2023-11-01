@@ -81,7 +81,7 @@ Primeiro Diagrama UML ![image](https://github.com/raulnt/Bertoti/assets/12726342
 Upadate do Diagrama de UML ![image](https://github.com/raulnt/Bertoti/assets/127263427/a25d0cc7-e460-4b83-86ea-39e578ed687a)
 
 # **18/09/23** 📅
-<summary> Teste JUnit </summary>
+<summary> Teste JUnit ✳️ </summary>
 <br>
 
 	@Test
