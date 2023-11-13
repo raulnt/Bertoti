@@ -1,18 +1,19 @@
-# **11/08/23** 📅
-<h2>Text 1 📄 </h2>
+# ENGENHARIA DE SOFTWARE
+Repositório criado e destinado para as atividades realizadas em sala de aula, professor Giuliano Araujo Bertoti - Engenharia de Software em Banco de Dados - 2º Semestre/2023.
+# ATIVIDADE 01 - Livro "Software Engineering at Google" 📅
+<h2>Texto 1 📄 </h2>
 Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming.
 
 <h2>Comentário 1 💬 </h2> 
 No primeiro trecho do livro, temos como tema "As diferenças críticas entre programação e engenharia de software". Sendo elas, tempo, escala e compensações (trade-off), partindo disso, os engenheiros direcionam sua "preocupação" com o tempo e necessidades relacionadas as mudanças. Ja na organização de engenharia de software em geral, a preocupação é voltada para escala e eficiência, tanto para o produzido quanto para a organização responsável pela produção. Podemos concluir, um engenheiro de software tem como sua responsabilidade a tomada de decisões complexas de alto risco, sem estimativas em relação a tempo e crescimento.
 
-# **14/08/23** 📅
-<h2>Text 2 📄 </h2> 
+<h2>Texto 2 📄 </h2> 
 Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming.
 
 <h2>Comentário 2 💬 </h2>
 No segundo trecho do livro, é tratado a relação da programação integrada na engenharia de software ao longo do tempo. Na qual o tempo tem um papel significativo, pois, programar é o primeiro passo para um novo software. Partido desse ponto de vista, podemos concluir a necessidade de projetar tarefas de programação (desenvolvimento), quanto tarefas de engenharia de software (desenvolvimento, modificação, manutenção...). Relacionando também a importância da adição de tempo à programação, citando exemplos...<br></br>
 
-<h2>3 Exemplos de trade-off "da sua cabeça"</h2>
+## ATIVIDADE 02 - 3 TRADE-OFFS 📅
 
 1. No primeiro exemplo vou usar a questão de uma programação, "Nivel de Complexidade e Funções x Manutenção", um programa complexo pode nos oferecer diversas funções que nos auxiliam melhor, porém, se pensarmos no lado da dificuldade de desenvolver e de uma futura manutenção, veremos que é uma questão de perde ganha (trade-off). 
 
@@ -20,7 +21,7 @@ No segundo trecho do livro, é tratado a relação da programação integrada na
 
 3. O terceiro exemplo seria em relação a um programa capaz de armazenar/salvar seu login e senha, trazendo a "Facilidade do Acesso x Segurança", onde se em nossa rotina do dia a dia nos pede o acesso em um certo programa, a opção de salvarmos nossos dados de login, nos traz essa facilidade e o rápido acesso, porém, existe a questão de quebra de segurança, que pode acarretar na exposição de nossos dados pessoais. 
 
-# **18/08/23** 📅
+## ATIVIDADE 03 - Requisitos não funcionais de usabilidade 📅
 <h2>Encontre 1 erro e 1 acerto de cada heurística, "10 Usability Heuristics for User Interface Design"</h2>
 
 <h3>1# Visibility of system status</h3>
@@ -63,7 +64,7 @@ Erro: A falta do Feedback, indicando o motivo do possível erro
 Acerto: Tutoriais interativos em aplicativos no primeiro acesso <br></br>
 Erro: Um programa complexo com várias ferramentos e com poucas informações de como usá-las.
 
-# **21/08/23** 📅
+## ATIVIDADE 04 - Diagrama de Caso de Uso (UML) 📅
 <h2>Caso de Uso</h2>
 
 * Diagrama de Caso de Uso
@@ -71,18 +72,158 @@ Erro: Um programa complexo com várias ferramentos e com poucas informações de
 
 ![image](https://github.com/raulnt/Bertoti/assets/127263427/03d84ffe-bb16-4f1c-88e0-3777d3c3d762)
 
+## ATIVIDADE 05 - Diagrama de Classes UML Sistema de Academia 📅
 
-# **25/08/23** 📅
 Primeiro Diagrama UML ![image](https://github.com/raulnt/Bertoti/assets/127263427/efa46bb9-b892-471a-a217-a4ed21826f46)
 
-
-
-# **11/09/23** 📅
 Upadate do Diagrama de UML ![image](https://github.com/raulnt/Bertoti/assets/127263427/a25d0cc7-e460-4b83-86ea-39e578ed687a)
 
-# **18/09/23** 📅
-<summary> Teste JUnit ✳️ </summary>
-<br>
+## ATIVIDADE 06 - Implementação Diagrama de Classes UML em Código JAVA 📅
+CLASSE SISTEMA DE ACADEMIA
+<details>
+
+    import java.util.ArrayList;
+    import java.util.List;
+
+    public class SistemaAcademia {
+    private String nomeAcademia;
+    private List<Aluno> alunos;
+    private List<Professor> professores;
+
+    public SistemaAcademia() {
+        this.alunos = new ArrayList<>();
+        this.professores = new ArrayList<>();
+    }
+
+    public void setNomeAcademia(String nomeAcademia) {
+        this.nomeAcademia = nomeAcademia;
+    }
+
+    public String getNomeAcademia(){
+        return nomeAcademia;
+    }
+    
+    public void cadastrarAluno (Aluno aluno){
+        aluno.add(aluno);
+    }
+
+    public void cadastrarProfessor (Professor professor){
+        professor.add(professor);
+    }
+
+    public Aluno buscarAlunoEmail(String email){
+        for (Aluno aluno : alunos) {
+            if (aluno.getEmail().equals(email)){
+                return aluno;
+            }
+        }
+    }
+    public Professor buscaProfessorId(int id){
+        for (Professor professor : professores) {
+            if (professor.getId() == id) {
+                return professor;
+            }
+        }
+    }
+    public void alterarPesoAluno(String email, float novoPeso) {
+        for(Aluno aluno : alunos) {
+            if (aluno.getEmail().equals(email)) {
+                aluno.setPeso(novoPeso);
+                return;
+            }
+        }
+    }
+    public void alterarTurnoProfessor(int id, String NovoTurno){
+        for(Professor professor : professores){
+            if (professor.getId() == id) {
+                professor.setTurno(NovoTurno);
+                return;
+            }
+        }
+    }
+}
+</details>
+
+CLASSE ALUNO
+<details>
+       
+    import java.util.ArrayList;
+    import java.util.List;
+
+    public class Aluno {
+    private String email;
+    private String nome;
+    private float peso;
+
+    public void setEmail(String email) {
+        this.email = email;
+    }
+
+    public String getEmail() {
+        return email;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public void setPeso(float peso) {
+        this.peso = peso;
+    }
+
+    public float getPeso() {
+        return peso;
+    }
+}
+
+</details>
+
+CLASSE PROFESSOR
+<details>
+
+    import java.util.ArrayList;
+    import java.util.List;
+
+    public class Professor {
+    private int id;
+    private String nome;
+    private String turno;
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public void setTurno(String turno) {
+        this.turno = turno;
+    }
+
+    public String getTurno() {
+        return turno;
+    }
+}
+
+
+</details>
+
+## ATIVIDADE 07 - Testes automatizados com técnica de teste 📅
+<summary> Teste JUnit ✳️ Sistema da Academia </summary>
+<details>
 
 	@Test
 	void test() {
@@ -101,3 +242,4 @@ Upadate do Diagrama de UML ![image](https://github.com/raulnt/Bertoti/assets/127
 		assertEquals(sa.buscarAlunos("Raul").size(), 1 );
 
 	}
+</details>
