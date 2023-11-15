@@ -42,7 +42,6 @@ Erro: ERRO 404
 
 ![404-error](https://github.com/raulnt/Bertoti/assets/127263427/fa6fbf55-503a-4c22-86df-0e00827060c4)
 
-
 <h3>3# User control and freedom</h3>
 Acerto Pacote Office (ctrl + Z) <br></br>
 
@@ -54,19 +53,39 @@ Erro: Campos que aceitam ctrl + V, porém, aceitam espaço vazio e acaba "comend
 
 <h3>4# Consistency and standards</h3>
 Acerto: WhatsApp <br></br>
+
+![wts](https://github.com/raulnt/Bertoti/assets/127263427/fd6657c5-b10e-4fe5-a07b-297d8c1c924f)
+
 Erro: Código sem padronização, podendo leva a bugs
+
+![code](https://github.com/raulnt/Bertoti/assets/127263427/d81521f5-ef35-4c67-9dd8-f8cb353e5781)
 
 <h3>5# Error prevention</h3>
 Acerto: Formatação dos dados <br></br>
+
+![Formatação_dos_dados](https://github.com/raulnt/Bertoti/assets/127263427/1e688c4c-b4e2-43da-888d-27d8d26e9341)
+
 Erro: Restrição de senhas muito complexas, pode gerar o esquecimento da mesma nos usuários
+
+![senha](https://github.com/raulnt/Bertoti/assets/127263427/9f46c9e1-f055-4584-97df-1a1207c02b85)
 
 <h3>6# Recognition rather than recall</h3>
 Acerto: Alexa, onde você pode dar orientações normalmente <br></br>
+
+![alexa](https://github.com/raulnt/Bertoti/assets/127263427/aad78a44-929b-42dc-895d-d45f8b5eb38f)
+
 Erro: Configuração de impressora, com a necessidade de lembra do IP 198.16....
+
+![imp](https://github.com/raulnt/Bertoti/assets/127263427/7690f714-6011-48c2-b94a-e805f92397ec)
 
 <h3>7# Flexibility and efficiency of use</h3>
 Acerto: Atalhos no teclado <br></br>
+
+![atalho](https://github.com/raulnt/Bertoti/assets/127263427/8bf01a62-da92-4284-9db3-7e36b0b2e711)
+
 Erro: A falta de atalhos em certo programas como os de edições, seja de foto, vídeo... 
+
+![atalhos-lol](https://github.com/raulnt/Bertoti/assets/127263427/064acffa-4afa-45a0-93c9-98b78093d90d)
 
 <h3>8# Aesthetic and minimalist design</h3>
 Acerto: Amazon, é simples e com foto no objetivo principal, a venda! <br></br>
