@@ -89,11 +89,21 @@ Erro: A falta de atalhos em certo programas como os de edições, seja de foto, 
 
 <h3>8# Aesthetic and minimalist design</h3>
 Acerto: Amazon, é simples e com foto no objetivo principal, a venda! <br></br>
+
+![Amazon-Prime-Day](https://github.com/raulnt/Bertoti/assets/127263427/2091ef20-d762-4033-b67e-350405a4c851)
+
 Erro: A falta do design minimalista, um loja virtual com várias publicidades espalhadas em janelas 
+
+![Pop-up_ads](https://github.com/raulnt/Bertoti/assets/127263427/6531173e-6e18-4698-9822-2c6e0929d4a3)
 
 <h3>9# Help users recognize, diagnose, and recover from errors</h3>
 Acerto: Uma mensagem informando onde ocorreu o "erro" como nas liguagens de programação <br></br>
+
+![erro-windows-03](https://github.com/raulnt/Bertoti/assets/127263427/c5c01af9-ae44-4729-b80e-b16e553b570d)
+
 Erro: A falta do Feedback, indicando o motivo do possível erro
+
+![Red Gradient UI Landing Page Simple Website UI Prototype (1)](https://github.com/raulnt/Bertoti/assets/127263427/26bed9a8-acf2-41b3-8b09-3ee7dbf7c778)
 
 <h3>10# Help and documentation</h3>
 Acerto: Tutoriais interativos em aplicativos no primeiro acesso <br></br>
