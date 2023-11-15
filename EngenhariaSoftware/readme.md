@@ -45,7 +45,12 @@ Erro: ERRO 404
 
 <h3>3# User control and freedom</h3>
 Acerto Pacote Office (ctrl + Z) <br></br>
+
+![z](https://github.com/raulnt/Bertoti/assets/127263427/0e25acb4-d90b-4632-bd79-968b80928b78)
+
 Erro: Campos que aceitam ctrl + V, porém, aceitam espaço vazio e acaba "comendo" um caracteres. 
+
+![Red Gradient UI Landing Page Simple Website UI Prototype](https://github.com/raulnt/Bertoti/assets/127263427/0a7db4a4-00b5-41a6-a11f-c61cc59e5568)
 
 <h3>4# Consistency and standards</h3>
 Acerto: WhatsApp <br></br>
