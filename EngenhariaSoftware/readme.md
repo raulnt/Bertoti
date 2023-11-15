@@ -107,7 +107,12 @@ Erro: A falta do Feedback, indicando o motivo do possível erro
 
 <h3>10# Help and documentation</h3>
 Acerto: Tutoriais interativos em aplicativos no primeiro acesso <br></br>
+
+![imagem_2023-11-15_191825422](https://github.com/raulnt/Bertoti/assets/127263427/07db4b6c-ef3b-4a3f-a333-6742ffcab8be)
+
 Erro: Um programa complexo com várias ferramentos e com poucas informações de como usá-las.
+
+![photoshop](https://github.com/raulnt/Bertoti/assets/127263427/3e342c9c-fd54-4d8f-8146-a85000c8ba34)
 
 ## ATIVIDADE 04 - Diagrama de Caso de Uso (UML) 📅
 <h2>Caso de Uso</h2>
@@ -189,6 +194,9 @@ CLASSE SISTEMA DE ACADEMIA
 }
 </details>
 
+Teste de Mesa: Sistema Academia<br>
+![imagem_2023-11-15_192540698](https://github.com/raulnt/Bertoti/assets/127263427/a9a01a78-4cdb-4ca9-9fca-847610eab8ba)
+
 CLASSE ALUNO
 <details>
        
@@ -227,6 +235,9 @@ CLASSE ALUNO
 
 </details>
 
+Teste de Mesa: Aluno<br>
+![teste](https://github.com/raulnt/Bertoti/assets/127263427/0245f080-fb77-4113-a6d3-f708205dc3b6)
+
 CLASSE PROFESSOR
 <details>
 
@@ -263,8 +274,11 @@ CLASSE PROFESSOR
     }
 }
 
-
 </details>
+
+Teste de Mesa: Professor<br>
+![teste p](https://github.com/raulnt/Bertoti/assets/127263427/0fb63585-46c5-4713-af46-ae15aa3bfc4f)
+
 
 ## ATIVIDADE 07 - Testes automatizados com técnica de teste 📅
 <summary> Teste JUnit ✳️ Sistema da Academia </summary>
