@@ -25,12 +25,23 @@ No segundo trecho do livro, é tratado a relação da programação integrada na
 <h2>Encontre 1 erro e 1 acerto de cada heurística, "10 Usability Heuristics for User Interface Design"</h2>
 
 <h3>1# Visibility of system status</h3>
-Acerto: O feedback ao usuário do status atual  é um ótimo indicador<br></br>
+Acerto: O feedback ao usuário do status atual é um ótimo indicador<br></br>
+
+![wtts-digitando](https://github.com/raulnt/Bertoti/assets/127263427/51c69719-705a-4def-9b90-b116eae8213b)
+
 Erro: A falta deu um feedback mais detalhado, pode deixar o usuário esperando sem necessidade
+
+![page-loading](https://github.com/raulnt/Bertoti/assets/127263427/ddfd8327-3519-48e9-8bf0-09f65cce5d90)
 
 <h3>2# Match between system and the real world</h3>
 Acerto: SQL para o usuários <br></br>
-Erro: Metáforas do Windows (Pasta, Arquivo...)
+
+![SQL](https://github.com/raulnt/Bertoti/assets/127263427/b5ed52e3-e9e4-481a-a00e-1115b2490f65)
+
+Erro: ERRO 404
+
+![404-error](https://github.com/raulnt/Bertoti/assets/127263427/fa6fbf55-503a-4c22-86df-0e00827060c4)
+
 
 <h3>3# User control and freedom</h3>
 Acerto Pacote Office (ctrl + Z) <br></br>
