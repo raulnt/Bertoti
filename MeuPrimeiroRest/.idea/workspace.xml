@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b66e07af-563f-4054-b700-8793cd0a5936" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3/demo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3/demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3/demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3/demo/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3/demo/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3/demo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3/demo/src/main/java/com/meuprimeirorest/demo/DemoApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3/demo/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab3/demo/src/test/java/com/meuprimeirorest/demo/DemoApplicationTests.java" beforeDir="false" />
-    </list>
+    <list default="true" id="b66e07af-563f-4054-b700-8793cd0a5936" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +53,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/rjbne/OneDrive/Documents/GitHub/Bertoti/MeuPrimeiroRest/cliente",
+    "last_opened_file_path": "C:/Users/rjbne/OneDrive/Documents/GitHub/.Bertoti",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -108,6 +91,7 @@
       <workItem from="1716261477724" duration="61000" />
       <workItem from="1716261998817" duration="44000" />
       <workItem from="1716332240548" duration="1091000" />
+      <workItem from="1716435360295" duration="1259000" />
     </task>
     <servers />
   </component>
