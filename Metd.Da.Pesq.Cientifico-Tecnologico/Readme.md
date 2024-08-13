@@ -1,6 +1,6 @@
 # Portifólio das APIs
 
-# Raul José Batista Neto
+## Raul José Batista Neto
 
 ## Introdução
 
@@ -8,8 +8,8 @@ Me chamo Raul, tenho 25 anos, tenho como hobbies, leitura, academia e jogar víd
 
 ## Contatos
 
-[GIT](github.com/raulnt)
-[LinkedIn](www.linkedin.com/in/raul-neto-b51b24157/)
+[GIT](https://github.com/raulnt)
+[LinkedIn](https://www.linkedin.com/in/raul-neto-b51b24157/)
 
 ## Meus Principais Conhecimentos (RASCUNHO)
 Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
@@ -19,7 +19,7 @@ Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maio
 ### Em 2024-1
 Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
 
-[GIT](https://www.git.com)
+[GIT](https://github.com/raulnt/NextSchema)
 
 #### Tecnologias Utilizadas
 Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
