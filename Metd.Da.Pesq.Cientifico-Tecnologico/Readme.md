@@ -11,14 +11,14 @@ Me chamo Raul, tenho 25 anos, tenho como hobbies, leitura, academia e jogar víd
 [GIT](https://github.com/raulnt)
 [LinkedIn](https://www.linkedin.com/in/raul-neto-b51b24157/)
 
-## Meus Principais Conhecimentos (RASCUNHO)
+## Meus Principais Conhecimentos
 
 Meu principal conhecimente é em Front End, usando o JAVA Script como liguagem e as marcações de texto (HTML e CSS), porém, me vejo como um Fullstack, pois também possuo conhecimento em Back End, usando JAVA +POO e Python como principais linguagens. Desejo desenvolver o meu Back End cada vez mais e o meu conhecimento em Banco de Dados.
 
 ## Meus Projetos
 
 ### Em 2024-1
-No 1° Semestre de 2024, desenvolvi um projeto com o meu grupo TECHorizon, 
+No 1° Semestre de 2024, desenvolvi um projeto com o meu grupo TECHorizon;
 
 IMAGEM
 
