@@ -4,7 +4,7 @@
 
 ## Introdução
 
-Me chamo Raul, tenho 25 anos, tenho como hobbies, leitura, academia e jogar vídeo games, amo viajar e ouvir música. Estou na área de programação desde 2022 quando entrei no curso de Banco de Dados da FATEC - SJC-SP na qual me formei em 2025. Sobre minha carreira na programação, trabalho no time de Master Data da BAYER desde 2024.
+Me chamo Raul, tenho 25 anos e meus hobbies são leitura, academia e jogar videogames. Amo viajar e ouvir música. Estou na área de programação desde 2022, quando entrei no curso de Banco de Dados da FATEC - SJC-SP, no qual me formei em 2025. Em relação à minha carreira na programação, trabalho no time de Master Data da Bayer desde 2024.
 
 ## Contatos
 
@@ -13,7 +13,7 @@ Me chamo Raul, tenho 25 anos, tenho como hobbies, leitura, academia e jogar víd
 
 ## Meus Principais Conhecimentos
 
-Meu principal conhecimente é em Front End, usando o JAVA Script como liguagem e as marcações de texto (HTML e CSS), porém, me vejo como um Fullstack, pois também possuo conhecimento em Back End, usando JAVA +POO e Python como principais linguagens. Desejo desenvolver o meu Back End cada vez mais e o meu conhecimento em Banco de Dados.
+Meu principal conhecimento é em front-end, usando JavaScript como linguagem e HTML e CSS para marcações de texto. No entanto, me vejo como um desenvolvedor fullstack, pois também possuo conhecimento em back-end, utilizando Java (com programação orientada a objetos) e Python como principais linguagens. Desejo desenvolver ainda mais minhas habilidades em back-end e aprofundar meu conhecimento em banco de dados.
 
 ## Meus Projetos
 
@@ -22,11 +22,11 @@ No 1° Semestre de 2024, desenvolvi um projeto com o meu grupo TECHorizon;
 
 ![PrintTecHorizon](https://github.com/user-attachments/assets/ad95df9e-6185-4d8d-aabe-5a79572b84cd)
 
-Onde a empresa DomRock trouxe um desafio, essa empresa possui uma arquitetura de processamento de dados encadeados denominado pipeline que contempla alguns estágios. Esses estágios são orquestrados de forma automatizada mediante características das fontes de dados e soluções de algoritmos de IA ou modelos matemáticos em função do negócio dos clientes. Na metodologia de implantação da solução, existe a necessidade de configurar as fontes de dados envolvidas para que a plataforma possa operar. 
+A empresa DomRock apresentou um desafio envolvendo sua arquitetura de processamento de dados encadeados, denominada pipeline, que abrange vários estágios. Esses estágios são orquestrados de forma automatizada, com base nas características das fontes de dados e nas soluções de algoritmos de IA ou modelos matemáticos, de acordo com as necessidades dos clientes. Na metodologia de implantação da solução, é necessário configurar as fontes de dados envolvidas para que a plataforma possa operar corretamente.
 
 ![TECHeDomRock](https://github.com/user-attachments/assets/ff6b11cc-3fed-4434-b0a7-6906916edab7)
 
-Essa configuração, atualmente, é manual e trata-se de um passo crítico e fundamental que consome muito tempo de técnicos, com isso, criamos uma interface amigável para configuração das fontes de dados, com os principais objetivos sendo; Maior agilidade de configurar implantação para clientes Dom Rock e diminuir a dependência de técnicos especialistas para a configuração. 
+Atualmente, essa configuração é realizada de forma manual e é um passo crítico e fundamental que consome muito tempo dos técnicos. Para resolver esse problema, criamos uma interface amigável para a configuração das fontes de dados. Os principais objetivos dessa interface são: aumentar a agilidade na configuração e implantação para os clientes da DomRock e reduzir a dependência de técnicos especialistas para essa configuração.
 
 ![PrintNextSchema](https://github.com/user-attachments/assets/8ff89104-7faa-4c28-8447-70da691249e1)
 
@@ -42,7 +42,7 @@ Essa configuração, atualmente, é manual e trata-se de um passo crítico e fun
 * GIT - Permitiu que trabalhasemos simultaneamente no projeto, garantindo que as mudanças sejam integradas de forma eficiente e organizada, além de manter um histórico completo de todas as alterações feitas no código.
 
 #### Contribuições Pessoais (RASCUNHO)
-Meu intuito neste projeto foi aprimorar minhas habilidades em Front End, na qual pedi para ficar responsável por esta parte do projeto, contribuí desde os prótotipos das telas do projeto até o desenvolvimentos em WEB, utilizando a linguagem JAVA Script, trazendo interatividade e dinamismo que respondem os eventos do usuário como cliques, movimentos do mouse, preenchimento de campos e atualizar a página sem recarregá-la, e os marcadores de textos HTML e CSS, utilizei para a estilização das página na WEB buscando deixa-las de acordo com o protótipo aceito pelo grupo, sendo tabelas, botões, cores, etc.
+Meu intuito neste projeto foi aprimorar minhas habilidades em front-end, então pedi para ficar responsável por essa parte do projeto. Contribuí desde a criação dos protótipos das telas até o desenvolvimento em web, utilizando JavaScript para trazer interatividade e dinamismo, respondendo a eventos do usuário como cliques, movimentos do mouse e preenchimento de campos, além de atualizar a página sem recarregá-la. Também utilizei HTML e CSS para a estilização das páginas web, buscando deixá-las de acordo com o protótipo aceito pelo grupo, incluindo tabelas, botões, cores, entre outros elementos.
 
 #### Hard Skills
 * JAVA Script - Sei como utilizar a linguagem.
