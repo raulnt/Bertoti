@@ -41,11 +41,18 @@ Essa configuração, atualmente, é manual e trata-se de um passo crítico e fun
 * HTML e CSS - Linguagem de marcação em que usamos para criar a estrutura da página web, onde definimos os diferentes elementos, títulos, parágrafos, imagens, links, formulários, etc.
 * GIT - Permitiu que trabalhasemos simultaneamente no projeto, garantindo que as mudanças sejam integradas de forma eficiente e organizada, além de manter um histórico completo de todas as alterações feitas no código.
 
-#### Contribuições Pessoais
-Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
+#### Contribuições Pessoais (RASCUNHO)
+Meu intuito neste projeto foi aprimorar minhas habilidades em Front End, na qual pedi para ficar responsável por esta parte do projeto, contribuí desde os prótotipos das telas do projeto até o desenvolvimentos em WEB, utilizando a linguagem JAVA Script, trazendo interatividade e dinamismo que respondem os eventos do usuário como cliques, movimentos do mouse, preenchimento de campos e atualizar a página sem recarregá-la, e os marcadores de textos HTML e CSS, utilizei para a estilização das página na WEB buscando deixa-las de acordo com o protótipo aceito pelo grupo, sendo tabelas, botões, cores, etc.
 
 #### Hard Skills
-Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
+JAVA Script - Sei como utilizar a linguagem.
+CSS - Sei fazer com autonomia.
+HTML - Sei fazer com autonomia.
+GIT - Sei fazer com autonomia.
+POSTMAN - Sei utilizar a ferramenta.
 
 #### Soft Skills
-Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
+COMUNICAÇÂO - Utilizei na maior parte do projeto, para a organização e definições do backlog e suas tarefa, junto aos feedback e atualizações do projeto
+TRABALHO EM EQUIPE - Colaborando com o grupo, sabendo ouvir, opinando e tendo empatia com foco no objetivo final do projeto.
+GESTÂO DE TEMPO - Aprendendo a separar e classificar a prioridade de acordo com o andamento do projeto.
+ÉTICA DE TRABALHO - Sendo uma pessoa ativa e proativa pra o grupo.
