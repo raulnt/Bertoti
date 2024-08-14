@@ -1,6 +1,6 @@
-# Portifólio das APIs
+### Portifólio das APIs
 
-## Raul José Batista Neto
+# Raul José Batista Neto
 
 ## Introdução
 
@@ -33,7 +33,13 @@ Essa configuração, atualmente, é manual e trata-se de um passo crítico e fun
 [GIT](https://github.com/raulnt/NextSchema)
 
 #### Tecnologias Utilizadas
-Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
+* JAVA - Como a principal linguagem do Back End orientada a objeto.
+* SPRINGBOOT - Nos trouxe uma facilidade por já conter um sevidor embutido.
+* MYSQL - Sistema de gerenciamento de banco de dados que nos trouxe Compatibilidade e Integração com o JAVA.
+* POSTMAN - Nossa ferramenta de efetuar teste das requisições em HTTP de todos o tipos.
+* JAVASCRIPT - Liguagem utilizado em nosso Front End onde o código é executado diretamente pelo navegador ou ambiente de execução, sem a necessidade de compilação prévia.
+* HTML e CSS - Linguagem de marcação em que usamos para criar a estrutura da página web, onde definimos os diferentes elementos, títulos, parágrafos, imagens, links, formulários, etc.
+* GIT - Permitiu que trabalhasemos simultaneamente no projeto, garantindo que as mudanças sejam integradas de forma eficiente e organizada, além de manter um histórico completo de todas as alterações feitas no código.
 
 #### Contribuições Pessoais
 Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
