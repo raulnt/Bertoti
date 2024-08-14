@@ -52,7 +52,7 @@ Meu intuito neste projeto foi aprimorar minhas habilidades em Front End, na qual
 * POSTMAN - Sei utilizar a ferramenta.
 
 #### Soft Skills
-* COMUNICAÇÂO - Utilizei na maior parte do projeto, para a organização e definições do backlog e suas tarefa, junto aos feedback e atualizações do projeto
+* COMUNICAÇÂO - Utilizei na maior parte do projeto, para a organização e definições do backlog e suas tarefa, junto aos feedback e atualizações do projeto.
 * TRABALHO EM EQUIPE - Colaborando com o grupo, sabendo ouvir, opinando e tendo empatia com foco no objetivo final do projeto.
 * GESTÂO DE TEMPO - Aprendendo a separar e classificar a prioridade de acordo com o andamento do projeto.
 * ÉTICA DE TRABALHO - Sendo uma pessoa ativa e proativa pra o grupo.
