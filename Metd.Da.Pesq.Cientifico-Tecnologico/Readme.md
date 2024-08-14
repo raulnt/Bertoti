@@ -20,15 +20,15 @@ Meu principal conhecimente é em Front End, usando o JAVA Script como liguagem e
 ### Em 2024-1
 No 1° Semestre de 2024, desenvolvi um projeto com o meu grupo TECHorizon;
 
-IMAGEM
+![PrintTecHorizon](https://github.com/user-attachments/assets/ad95df9e-6185-4d8d-aabe-5a79572b84cd)
 
 Onde a empresa DomRock trouxe um desafio, essa empresa possui uma arquitetura de processamento de dados encadeados denominado pipeline que contempla alguns estágios. Esses estágios são orquestrados de forma automatizada mediante características das fontes de dados e soluções de algoritmos de IA ou modelos matemáticos em função do negócio dos clientes. Na metodologia de implantação da solução, existe a necessidade de configurar as fontes de dados envolvidas para que a plataforma possa operar. 
 
-IMAGEM
+![TECHeDomRock](https://github.com/user-attachments/assets/ff6b11cc-3fed-4434-b0a7-6906916edab7)
 
 Essa configuração, atualmente, é manual e trata-se de um passo crítico e fundamental que consome muito tempo de técnicos, com isso, criamos uma interface amigável para configuração das fontes de dados, com os principais objetivos sendo; Maior agilidade de configurar implantação para clientes Dom Rock e diminuir a dependência de técnicos especialistas para a configuração. 
 
-IMAGEM
+![PrintNextSchema](https://github.com/user-attachments/assets/8ff89104-7faa-4c28-8447-70da691249e1)
 
 [GIT](https://github.com/raulnt/NextSchema)
 
