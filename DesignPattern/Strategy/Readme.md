@@ -1,3 +1,3 @@
 #Diagrama de Strategy
 
-![StrategyDiagram](https://github.com/user-attachments/assets/4973cee6-fe60-41f2-b274-01141b0dbbd6)
+![StrategyDiagram](https://github.com/user-attachments/assets/5f9eccb6-63d8-45d7-b892-48d256873621)
