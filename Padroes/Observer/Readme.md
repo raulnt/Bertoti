@@ -1,4 +1,4 @@
-# Diagrama de Observer
+# Diagrama de Observer 👁️
 ![image](https://github.com/user-attachments/assets/74bb6145-9188-45ba-b92b-a127a35c83a8)
 
 ## O que pude entender?! 📔
