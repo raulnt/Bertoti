@@ -58,8 +58,7 @@ Atualmente, essa configuração é realizada de forma manual e é um passo crít
 #### Desenvolvimento em web: 🕸️
   A partir dos protótipos aceitos, começa a construção real da aplicação web.
   Nesse processo, utilizam-se linguagens como HTML, CSS e JavaScript para criar páginas dinâmicas e interativas, respeitando o design e a usabilidade proposta no protótipo.
-
-#### O que é interatividade no contexto web? 🕸️
+  -  O que é interatividade no contexto web? 🕸️
   Significa tornar a página web capaz de responder às ações do usuário, como cliques em botões, preenchimento de campos, seleção de opções, entre outros.
   Isso cria uma experiência mais fluida e intuitiva para o usuário.
   Como o JavaScript faz isso?
