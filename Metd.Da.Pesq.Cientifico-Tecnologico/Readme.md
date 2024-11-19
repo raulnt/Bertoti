@@ -42,8 +42,6 @@ Atualmente, essa configuração é realizada de forma manual e é um passo crít
 * GIT - Permitiu que trabalhasemos simultaneamente no projeto, garantindo que as mudanças sejam integradas de forma eficiente e organizada, além de manter um histórico completo de todas as alterações feitas no código.
 
 ## Contribuições Pessoais 🤝
-  Meu intuito neste projeto foi aprimorar minhas habilidades em front-end, então pedi para ficar responsável por essa parte do projeto. 
-  Contribuí desde; 
 
 #### Criação dos protótipos: 🖋️
   Antes de começar o desenvolvimento de uma aplicação web, é importante planejar como as telas vão se parecer e funcionar.
