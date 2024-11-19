@@ -32,7 +32,7 @@ Atualmente, essa configuração é realizada de forma manual e é um passo crít
 
 [GIT](https://github.com/raulnt/NextSchema)
 
-#### Tecnologias Utilizadas 🧰
+## Tecnologias Utilizadas 🧰
 * JAVA - Como a principal linguagem do Back End orientada a objeto.
 * SPRINGBOOT - Nos trouxe uma facilidade por já conter um sevidor embutido.
 * MYSQL - Sistema de gerenciamento de banco de dados que nos trouxe Compatibilidade e Integração com o JAVA.
@@ -41,7 +41,7 @@ Atualmente, essa configuração é realizada de forma manual e é um passo crít
 * HTML e CSS - Linguagem de marcação em que usamos para criar a estrutura da página web, onde definimos os diferentes elementos, títulos, parágrafos, imagens, links, formulários, etc.
 * GIT - Permitiu que trabalhasemos simultaneamente no projeto, garantindo que as mudanças sejam integradas de forma eficiente e organizada, além de manter um histórico completo de todas as alterações feitas no código.
 
-#### Contribuições Pessoais 🤝
+## Contribuições Pessoais 🤝
   Meu intuito neste projeto foi aprimorar minhas habilidades em front-end, então pedi para ficar responsável por essa parte do projeto. 
   Contribuí desde; 
 
@@ -92,14 +92,14 @@ Atualmente, essa configuração é realizada de forma manual e é um passo crít
   Botões e tabelas: Podem ter bordas, espaçamento, sombreados etc.
   Responsividade: Adapta o layout da página para diferentes tamanhos de tela.
 
-#### Hard Skills 🦾
+## Hard Skills 🦾
 * JAVA Script - Sei como utilizar a linguagem.
 * CSS - Sei fazer com autonomia.
 * HTML - Sei fazer com autonomia.
 * GIT - Sei fazer com autonomia.
 * POSTMAN - Sei utilizar a ferramenta.
 
-#### Soft Skills 💭
+## Soft Skills 💭
 * COMUNICAÇÂO - Utilizei na maior parte do projeto, para a organização e definições do backlog e suas tarefa, junto aos feedback e atualizações do projeto.
 * TRABALHO EM EQUIPE - Colaborando com o grupo, sabendo ouvir, opinando e tendo empatia com foco no objetivo final do projeto.
 * GESTÂO DE TEMPO - Aprendendo a separar e classificar a prioridade de acordo com o andamento do projeto.
