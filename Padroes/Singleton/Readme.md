@@ -1,6 +1,6 @@
 # Diagrama de Singleton 🌐
 
-![Singleton](https://github.com/user-attachments/assets/2705c1ba-9b23-4524-8a5d-8a929c0e4b74)
+![image](https://github.com/user-attachments/assets/3befa696-ae4f-4a13-8c55-cc5f68f609d7)
 
 ## O que pude entender?! 📔
 
