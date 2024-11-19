@@ -43,8 +43,10 @@ Atualmente, essa configuração é realizada de forma manual e é um passo crít
 
 #### Contribuições Pessoais 🤝
 Meu intuito neste projeto foi aprimorar minhas habilidades em front-end, então pedi para ficar responsável por essa parte do projeto. 
-Contribuí desde a criação dos protótipos das telas até o desenvolvimento em web, utilizando JavaScript para trazer interatividade e dinamismo, respondendo a eventos do usuário como cliques, movimentos do mouse e preenchimento de campos, além de atualizar a página sem recarregá-la. 
-Também utilizei HTML e CSS para a estilização das páginas web, buscando deixá-las de acordo com o protótipo aceito pelo grupo, incluindo tabelas, botões, cores, entre outros elementos.
+Contribuí desde; 
+* Criação dos protótipos das telas até o desenvolvimento em web.
+* Utilizando JavaScript para trazer interatividade e dinamismo, respondendo a eventos do usuário como cliques, movimentos do mouse e preenchimento de campos, além de atualizar a página sem recarregá-la. 
+* Também utilizei HTML e CSS para a estilização das páginas web, buscando deixá-las de acordo com o protótipo aceito pelo grupo, incluindo tabelas, botões, cores, entre outros elementos.
 
 #### Hard Skills 🦾
 * JAVA Script - Sei como utilizar a linguagem.
